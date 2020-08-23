@@ -1,1 +1,9 @@
 学习笔记
+重学html
+html语义化标签：用html标签表明元素在页面上的意义，排版交给css处理
+html语法：节点，字符引用
+浏览器api：
+dom
+事件
+range
+cssom
